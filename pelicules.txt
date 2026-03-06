@@ -1,2 +1,6 @@
-Una pelúl¡cula local 
-Sonrisas y l grimas 
+Una pellicula local 
+<<<<<<< HEAD
+La vida de Brian
+Monty Python and the Holy Grail
+Una pelÂ·lÃ­cula local
+>>>>>>> origin/main
