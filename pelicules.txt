@@ -4,3 +4,6 @@ La vida de Brian
 Monty Python and the Holy Grail
 Una pelÂ·lÃ­cula local
 >>>>>>> origin/main
+Una pelúl¡cula local 
+Una pelúl¡cula loca 
+La Tormenta perfecta 
